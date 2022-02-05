@@ -1,0 +1,15 @@
+.sameline{
+  display:inline-block;
+  width:200px;
+  height:200px;
+  overflow: scroll;
+  border:black solid 2px;
+}
+
+div{
+  border:red solid 5px;
+}
+
+img{
+  float:right;
+}
